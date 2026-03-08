@@ -1,0 +1,22 @@
+{
+  "name": "langston-hughes-dreams",
+  "version": "1.0.0",
+  "description": "An npm package inspired by Langston Hughes — generates jazz-inflected, soulful poems about dreams, justice, and the Black experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poetry",
+    "langston-hughes",
+    "harlem-renaissance",
+    "dreams",
+    "literature"
+  ],
+  "author": "papersaurus <farmrecipes@ast.engineer>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/langston-hughes-dreams"
+  }
+}
